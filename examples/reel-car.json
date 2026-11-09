@@ -1,0 +1,27 @@
+{
+  "name": "RGA 2005",
+  "body": "coupe",
+  "colors": {
+    "main": "silver",
+    "stripes": [
+      "blue",
+      "blue"
+    ],
+    "spoiler": "black",
+    "rims": "#9aa0a6"
+  },
+  "stripes": {
+    "layout": "twin",
+    "over": [
+      "hood",
+      "roof",
+      "trunk"
+    ]
+  },
+  "spoiler": "big",
+  "wheels": "normal",
+  "exhausts": 4,
+  "plate": "RGA 2005",
+  "decals": [],
+  "notes": "Silver coupe, two blue racing stripes over hood, roof and trunk, big black rear wing, four exhausts."
+}

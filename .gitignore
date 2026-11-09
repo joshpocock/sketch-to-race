@@ -1,0 +1,7 @@
+# never pushed: private launch kit and page source
+page/
+launch/
+.env*
+__pycache__/
+*.pyc
+tests/outputs/
